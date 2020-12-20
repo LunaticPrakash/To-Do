@@ -9,7 +9,7 @@ A simple To-Do type command line based program made in python.
 
  ## Output :- 
    
-   ![Output-1](Output/Output-1.png)  <!-- .element height="50%" width="90%" -->
+   <img src="Output/Output-1.png" alt="Output-1" width="80%" height="60%">
    ![Output-2](Output/Output-2.png)
    
    
