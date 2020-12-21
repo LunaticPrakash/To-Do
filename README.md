@@ -18,7 +18,7 @@ A simple To-Do type command line based program made in python.
 ### For Linux >
 
 - Download or clone repository.
-- Run the todo.py file by **python3 todo.py** or use it directly by **./todo** along with arguments.
+- Run the todo.py file by **python3 todo.py** or create symbolic link by **ln -s todo.sh todo** & then use it directly by **./todo** along with arguments.
 
 ### For Windows >
 
