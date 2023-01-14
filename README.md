@@ -9,8 +9,8 @@ A simple To-Do type command line based program made in python.
 
  ## Output :- 
    
-   <img src="Output/Output-1.png" alt="Output-1" width="50%" height="50%" >
-   <img src="Output/Output-2.png" alt="Output-2" width="50%" height="50%" >
+   <img src="https://user-images.githubusercontent.com/56812557/212475681-4c165d2a-de68-4263-acf9-23459aa0280e.png" alt="Output-1" width="50%" height="50%" >
+   <img src="https://user-images.githubusercontent.com/56812557/212475682-50b8a135-8d79-4afa-85d7-4cb4a0d4a22e.png" alt="Output-2" width="50%" height="50%" >
    
    
 ## Getting Started :-
